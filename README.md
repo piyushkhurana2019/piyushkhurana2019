@@ -25,5 +25,4 @@ i am a 1st year student of CSE at USICT, Delhi.
   
   ## Contact Me
   
-  [<img src="https://thumbs.dreamstime.com/b/rounded-instagram-logo-web-print-transparent-white-background-use-printing-purpose-165758567.jpg" height="40">](https://www.instagram.com/piyushkhurana2019/)
-  
+  [<img src="https://thumbs.dreamstime.com/b/rounded-instagram-logo-web-print-transparent-white-background-use-printing-purpose-165758567.jpg" height="40">](https://www.instagram.com/piyushkhurana2019/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgbnCAUiq8nvwzDbRMw__Wn3f3HhiLEMAVDIVM2IE8uCjGaEbsuQ_CyAYqsCKfrEZl3Q&usqp=CAU" height = "40">](https://www.linkedin.com/in/piyush-khurana-907b25227/)
