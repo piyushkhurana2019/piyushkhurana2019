@@ -8,7 +8,7 @@ i am a 1st year student of CSE at USICT, Delhi.
 ## Coding skills 
 
 <p>
-  <img src="https://www.shoutcoders.com/wp-content/uploads/2020/02/C-programming-1024x530.png" height="76px"/>
+  C
  </p>
  <p>
  C##(without oops)
