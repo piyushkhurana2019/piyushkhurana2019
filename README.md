@@ -1,39 +1,24 @@
-### hey there 😃
- 
-I am ***piyush khurana***
+# 💫 About Me:
+👋 Hii i am Piyush Khurana, CSE undergrad at USICT, GGSIPU<br>🔭 I’m currently working on frontend web development<br>🌱 I’m currently learning MERN stack web development<br>i am team focussed in everything i do.<br>💬 Ask me about :- Discipline
 
-## About Me
-i am a 1st year student of CSE at USICT, Delhi.
 
-## Coding skills 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/piyushkhurana2019/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/piyush-khurana-907b25227) 
 
-<p>
-  C
- </p>
- <p>
- C##(without oops)
- </p>
- <p>
- html, css, js
- </p>
- 
- ## Other Skills
- 
-  - National level Rope Skipper 2014
-  - District Badminton player 2017
-  - Acoustic Guitarist
-  
-  **languages**
-  
-  - Hindi
-  - English
-  - Punjabi
-  
-  ## Contact Me
-  
-  [<img src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" height="25">](https://www.instagram.com/piyushkhurana2019/) [<img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height = "25">](https://www.linkedin.com/in/piyush-khurana-907b25227/)  [<img src="https://camo.githubusercontent.com/d7cb1dd1cb1934a60f80c33b839975af5ce9e376a967b26e14290801ba30eda4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f267374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" height="24">](https://twitter.com/piyushk2019)
-  
-  [mail](mailto:piyushkhurana159@gmail.com)
-  
-  
-  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=piyushkhurana2019&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=piyushkhurana2019&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkhurana2019&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=piyushkhurana2019&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=piyushkhurana2019&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
