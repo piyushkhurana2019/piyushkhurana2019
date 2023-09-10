@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hii i am Piyush Khurana, CSE undergrad at USICT, GGSIPU<br>🔭 I’m currently working on frontend web development<br>🌱 I’m currently learning MERN stack web development<br>i am team focussed in everything i do.<br>💬 Ask me about :- Discipline
+👋 Hii i am Piyush Khurana, CSE undergrad at USICT, GGSIPU<br>🔭 I'm a MERN stack developer <br>🌱 I’m currently learning Artificial Intellegence<br>💪 I am team focussed in everything i do.<br>💬 Ask me about :- Discipline and Consistency about learning and practicing 
 
 
 ## 🌐 Socials:
